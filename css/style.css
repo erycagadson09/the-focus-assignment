@@ -22,3 +22,14 @@ div > p {
    flex-grow: 1;
    width: 40px;
    text-align: center;
+}
+
+#iphone {
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+#iphone {
+   position: relative;
+   top: -200px;
