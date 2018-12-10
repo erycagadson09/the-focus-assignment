@@ -41,3 +41,7 @@ div > p {
    left: 815px;
 }
 
+#footer {
+   justify-content: space-around;
+   align-items: flex-end;
+}
