@@ -6,4 +6,13 @@ header {
 
 div {
    position: absolute;
+   width: 1600px;
+   margin: auto;
 }
+
+h1 {
+   display: block;
+   font-family: pacifico, sans-serif;
+   font-size: 60px;
+   padding-left: 11px;
+   top: 20px;
