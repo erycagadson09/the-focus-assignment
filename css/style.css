@@ -16,3 +16,9 @@ h1 {
    font-size: 60px;
    padding-left: 11px;
    top: 20px;
+}
+
+div > p {
+   flex-grow: 1;
+   width: 40px;
+   text-align: center;
