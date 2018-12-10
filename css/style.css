@@ -1,10 +1,4 @@
 html {
    background-image: url('../img/large-banner-image.png');
-   background-repeat: repeat;
-}
-
-img {
    position: absolute;
-   width: 1600px;
-   margin: auto;
 }
